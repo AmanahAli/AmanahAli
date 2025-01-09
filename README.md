@@ -12,7 +12,7 @@
 ## 📂 Featured Projects
 
 ## 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/amanah-ali-a7536a242/)
+- [LinkedIn Profile](https://www.linkedin.com/in/amanah-ali-a7536a242/)
 
 <!--
 **AmanahAli/AmanahAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
