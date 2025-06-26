@@ -1,4 +1,4 @@
-# Hello, I'm Amanah. 👋
+# Hello, I'm Amanah. 
 
 🎓 **Software Engineering Graduate**
 🌟 Passionate about building efficient, and user-friendly software solutions.  
