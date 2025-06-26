@@ -1,13 +1,13 @@
 # Hello, I'm Amanah. 👋
 
 🎓 **Software Engineering Graduate**
-🌟 Passionate about building robust, efficient, and user-friendly software solutions.  
+🌟 Passionate about building efficient, and user-friendly software solutions.  
 
 ## 🚀 Skills
 - **Programming languages:** Python, Java, R, PHP, SQL, Swift, HTML, CSS, JavaScript
 - **Frameworks & tools:** React.js, Git
 - **Database Management:** MySQL, MongoDB and Firebase
-- **Interests:** Software Development, Web and Mobile App Development. 
+- **Interests:** Software Development, Full Stack development, Web and Mobile App Development. 
 
 ## 📂 Featured Projects
 **[Student Progression Outcome- Python]**
