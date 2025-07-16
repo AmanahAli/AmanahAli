@@ -7,7 +7,7 @@
 - **Programming languages:** Python, Java, R, PHP, SQL, Swift, HTML, CSS, JavaScript
 - **Frameworks & tools:** React.js, Git
 - **Database Management:** MySQL, MongoDB and Firebase
-- **Interests:** Software Development, Full Stack development, Web and Mobile App Development. 
+- **Interests:** Front End Development, Full Stack development, Web and Mobile App Development. 
 
 ## 📂 Featured Projects
 **[Student Progression Outcome- Python]**
